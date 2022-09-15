@@ -19,4 +19,4 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-(ใส่ URL ที่นี่)
+(ใส่ URL ที่นี่)https://codesandbox.io/p/github/cpe-cmu-261207/lab-09-cpi2544/draft/suspicious-neumann?file=%2FREADME.md&workspace=%257B%2522activeFileId%2522%253A%2522cl82ra1rh000flndqfky17yjg%2522%252C%2522openFiles%2522%253A%255B%2522%252FREADME.md%2522%255D%252C%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522gitSidebarPanel%2522%253A%2522COMMIT%2522%252C%2522sidekickItems%2522%253A%255B%257B%2522key%2522%253A%2522cl82ra5u5000k3n6j6uc24o7n%2522%252C%2522type%2522%253A%2522PROJECT_SETUP%2522%252C%2522isMinimized%2522%253Afalse%257D%255D%257D
